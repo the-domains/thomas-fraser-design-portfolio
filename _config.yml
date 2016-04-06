@@ -1,0 +1,28 @@
+name: Thomas Fraser Design Portfolio
+favicon: null
+layout_spectrum: 0.5094525122549385
+typography_spectrum: 0.49123640125617385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9484843278769404
+  lightness: 0.06851464067585766
+  saturation: 0.5316349677741528
+  rhythmicContrast: 0.3342463690787554
+purpose: []
