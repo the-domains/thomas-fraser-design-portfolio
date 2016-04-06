@@ -1,4 +1,4 @@
-name: Thomas Fraser Design Portfolio
+name: TAF DP
 favicon: null
 layout_spectrum: 0.5094525122549385
 typography_spectrum: 0.49123640125617385
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#00be00'
+    - '#486138'
+    - '#6a8e7f'
+    - '#fefefe'
+    - '#bdd0d4'
   brandStrength: 0.9484843278769404
   lightness: 0.06851464067585766
   saturation: 0.5316349677741528
